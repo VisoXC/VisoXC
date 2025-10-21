@@ -1,6 +1,6 @@
 # 👋 Hey, I'm VisoXD
 
-**German malware developer** focused on payload and c2 development.
+German **malware developer** focused on payload and c2 development.
 
 ## 🔧 Tech Stack
 
