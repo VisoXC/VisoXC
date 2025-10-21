@@ -8,11 +8,17 @@
 - **Go** - for systems programming and tooling
 - **Python** - for automation and analysis
 
-**Other Technologies:**
-- **Rust** - for memory-safe systems work
-- **Java** - for enterprise environments
-- **Web** - HTML, CSS, JavaScript
-- **Reverse Engineering** - various tools and methodologies
+**Languages & Technologies:**
+
+<div align="left">
+  <img src="https://skill-icons.dev/icons?i=go" alt="Go" title="Go" width="50" height="50"/>
+  <img src="https://skill-icons.dev/icons?i=python" alt="Python" title="Python" width="50" height="50"/>
+  <img src="https://skill-icons.dev/icons?i=rust" alt="Rust" title="Rust" width="50" height="50"/>
+  <img src="https://skill-icons.dev/icons?i=java" alt="Java" title="Java" width="50" height="50"/>
+  <img src="https://skill-icons.dev/icons?i=html" alt="HTML" title="HTML" width="50" height="50"/>
+  <img src="https://skill-icons.dev/icons?i=css" alt="CSS" title="CSS" width="50" height="50"/>
+  <img src="https://skill-icons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+</div>
 
 ## 📊 Stats
 
