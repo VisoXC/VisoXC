@@ -1,14 +1,14 @@
-# 👋 Hey, I'm Viso
+# 👋 Hey, I'm VisoXD
 
-**German malware developer** focused on low-level systems and security research.
+**German malware developer** focused on payload and c2 development.
 
 ## 🔧 Tech Stack
 
 **Main Languages:**
-- **Go** - for systems programming and tooling  
-- **Python** - for automation and analysis
+- **Go** - My beloved ❤️
+- **Python**
 
-**Languages & Technologies:**
+**Other Languages:**
 
 <div align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
@@ -22,15 +22,10 @@
 
 ## 📊 Stats
 
-![Viso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisoXD&show_icons=true&theme=dark)
+![VisoXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisoXD&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisoXD&layout=compact&theme=dark)
 
 ## 📫 Contact
 
-- **Discord:** VisoXD
-- **Email:** Available upon request
-
----
-
-*Focus on execution, not attention.*
+- **Discord:** @agarthachad
