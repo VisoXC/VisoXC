@@ -26,4 +26,4 @@ German **malware developer** focused on payload and c2 development.
 
 ## 📫 Contact
 
-- **Discord:** @agarthachad
+- **Discord:** @visoxd
